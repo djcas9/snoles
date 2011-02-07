@@ -1,0 +1,10 @@
+name: snoles
+summary: "TODO: Summary"
+description: "TODO: Description"
+license: MIT
+authors: dustinwebber
+homepage: http://rubygems.org/gems/snoles
+
+development_dependencies:
+  ore-tasks: ~> 0.3.0
+  rspec: ~> 2.4.0
