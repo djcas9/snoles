@@ -4,7 +4,7 @@ require 'snoles/version'
 module Snoles
   
   def self.load(rule)
-    Rule::Parse.new(rule)
+    Rule::Examine.new(rule)
   end
   
 end
